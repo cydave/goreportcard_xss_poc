@@ -1,3 +1,3 @@
-module github.com/cydave/goreportcard_com_xss_poc@1.0.0
+module github.com/cydave/goreportcard_com_xss_poc
 
 go 1.23.2
